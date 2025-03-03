@@ -13,8 +13,8 @@ const GlobalStyle = createGlobalStyle`
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
-	<Fragment>
+	<React.StrictMode>
 		<GlobalStyle />
 		<App />
-	</Fragment>
+	</React.StrictMode>
 );
