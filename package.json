@@ -20,8 +20,7 @@
   "homepage": "https://github.com/frandipradana95/react-webpack#readme",
   "dependencies": {
     "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "styled-components": "^6.1.15"
+    "react-dom": "^19.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.26.9",
