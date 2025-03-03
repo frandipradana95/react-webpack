@@ -1,11 +1,11 @@
 import React from "react";
-import { AppContainer } from "./style";
+import "./style.css";
 
 const App = () => {
 	return (
-		<AppContainer>
-			<h1>React Webpack</h1>
-		</AppContainer>
+		<div className="container">
+			<h1>Hallo</h1>
+		</div>
 	);
 };
 
